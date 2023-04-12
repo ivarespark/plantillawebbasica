@@ -1,0 +1,8 @@
+unsplash.com
+boxicons.com
+normalize.css
+https://bennettfeely.com/clippy/
+https://www.magicpattern.design/tools/css-backgrounds
+https://formspree.io/
+https://metatags.io/
+https://ogp.me/
